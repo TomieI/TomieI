@@ -12,4 +12,3 @@ Meu nome é Luiza Tomie
 
 @tomie.iraha
 
-![descrição do GIF](link GIF do Tenor)
